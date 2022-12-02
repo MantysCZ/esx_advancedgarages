@@ -17,6 +17,7 @@ Advanced Garage System for ESX, V1 fianl (may work on 1.1 idk) - Made by Human T
 # Requirements:
 * Required:
   * [es_extended Legacy](https://github.com/esx-framework/esx-legacy)
+  * [ox_lib ](https://github.com/overextended/ox_lib)
   * [esx_property](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_property)
 * Optional:
   * [esx_vehicleshop](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_vehicleshop)
